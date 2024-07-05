@@ -48,7 +48,7 @@ public class Cancion {
     }
 
     public String printCancion(){
-        String st = "Nombre: " + nombre + "Fechas: ";
+        String st = "Nombre: " + nombre + "    Fechas: ";
         for(Dia dia : fechas){
             st += dia.printDia();
             if(dia.getTipo().equals("d")) {

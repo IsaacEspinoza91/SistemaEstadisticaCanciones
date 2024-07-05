@@ -142,7 +142,6 @@ public class SistemaEstadistico {
         for (Cancion cancion : canciones){
             if(cancion.getFechas().contains(diaAux)){
                 cancionesEnDia.add(cancion.getNombre());
-                System.out.println(cancion.getNombre());
             }
         }
         return cancionesEnDia;
