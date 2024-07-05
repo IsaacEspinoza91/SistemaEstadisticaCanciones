@@ -60,16 +60,19 @@ public class SistemaEstadistico {
                 this.fechas.add(diaActual);
 
                 for(String nombre : nombresCanciones){
+                    existeCancion = false;
                     for (Cancion cancion : canciones) {
                         if (cancion.getNombre().equals(nombre)) {
                             cancion.addFecha(diaActual);
                             existeCancion = true;
                         }
                     }
-                    if(!existeCancion || canciones.isEmpty()){
-                        Cancion cancionActual = new Cancion(nombre,new ArrayList<>(Arrays.asList(diaActual)));
+                    if (!existeCancion || canciones.isEmpty()) {
+                        Cancion cancionActual = new Cancion(nombre);
+                        cancionActual.addFecha(diaActual);
                         canciones.add(cancionActual);
                     }
+
                 }
             }
             reader.close();
@@ -140,8 +143,13 @@ public class SistemaEstadistico {
             }
         }
         for (Cancion cancion : canciones){
-            if(cancion.getFechas().contains(diaAux)){
+            /*if(cancion.getFechas().contains(diaAux)){
                 cancionesEnDia.add(cancion.getNombre());
+            }*/
+            for(Dia d : cancion.getFechas()){
+                if(d.getAnio() == anio && d.getMes() == mes && d.getDia() == dia){
+                    cancionesEnDia.add(cancion.getNombre());
+                }
             }
         }
         return cancionesEnDia;

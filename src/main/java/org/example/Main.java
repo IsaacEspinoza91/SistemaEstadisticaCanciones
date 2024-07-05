@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
 
         SistemaEstadistico s1 = new SistemaEstadistico();
-        s1.addDataByTXT("texto.txt");
+        s1.addDataByTXT("cancion.txt");
 
 
         Scanner inTeclado = new Scanner(System.in);
