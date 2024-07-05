@@ -1,0 +1,35 @@
+2024;1;25;j;Cristo me ayuda por el a vivir,Cordero y leon,De tal manera me amo,Solo Cristo,Celebrare tu amor,Portador de tu gloria
+2024;1;28;d;Pecador sin esperanza,Abre mis ojos,Solo a ti sea la gloria,Con humildad,Cristo yo creo en ti,A el alto y sublime,El es el rey
+2024;2;4;d;Me hirio el pecado,Glorioso dia,Tu nombre levantare,Rey de gloria,Llenas nuestro hogar,Santo es el que vive,Recibe toda la gloria,Te doy gloria
+2024;2;11;d;Cuando combatido,Porque bueno es Dios,Celebrad,Es Jesus el pan de vida,Al que me ciñe de poder,En reposo,Fidelidad,Oh Cristo amado
+2024;2;18;d;A Jesucristo ven sin tardar,Mi todo,En espiritu y verdad,Con humildad,Santo por siempre,Canta al Señor,Honor y gloria
+2024;2;25;d;Hay una ciudad,Glorioso dia,El Dios que adoramos,Cuando Jesus decienda,Traemos hoy,Santo es el que vive,Jesus mi salvacion,Mi todo
+2024;3;3;d;La venida de Cristo se acerca,Me saco de las tinieblas,Alza tus ojos y mira,Rey de gloria,Santo por siempre,Recibe toda la gloria,Me gozare,Asi como David danzaba
+2024;3;10;d;Trabajad,Hay libertad,Somo el pueblo,Aquel que nos amo,Solo tu amor,Grande y eterno,En espiritu y verdad
+2024;3;17;d;La venida de Cristo,Señor mi Dios,Tu eres mi todo,Golpe de espada,Conmigo va,Amor sin condicion,Gracia sublime
+2024;3;24;d;Lavame,Glorioso dia,Tu nombre levantare,Al que es digno,Mi todo,Poderoso Dios,Alaba Dios,Santo por siempre,Cantad Dios cerca esta
+2024;3;31;d;En calvario horrenda cruz,Porque bueno es Dios,Celebrad,Cuando bello es el Señor,Solo a ti sea la gloria,Santo es el que vive,Gracias por la cruz,Santo es el que vive,Hay libertad
+2024;4;7;d;Lavame en tu sangre,Ven es hora de adorarle,Abre mis ojos,Alza tus ojos y mira,Somos el pueblo,Sol de mañana,Cristo te amo,Santo por siempre,Mira que lindo se ve,Lluvias caeran,Vamos a alabar a Jehova con panderos y arpas,Mira lo que hizo mi Jesus,Hay vida en Jesus,Mis manos estan llenas
+2024;4;14;d;Mas que victoria,Cambiare mi tristeza,Señor eres fiel,El es el rey,Aquel que nos amo,Santo por siempre,Algo esta cayendo aqui,Que gran dicha nos ha dado el padre,Una mirada de fe,Solo Dios hace al hombre feliz,Yo tengo un amigo que me ama,Alabare,Alabad a Jehova,Bendito sea Jehova la roca
+2024;4;21;d;Señor mi Dios,Hay una ciudad,Cuando Jesus descienda,Desde el fondo del mar,La bondad de Dios,Jesus tu eres,Te doy gloria
+2024;4;25;j;Hay una ciudad,Ven es hora de adorarle,El Dios que adoramos,Poderoso Dios,Alaba a Dios,Aquel que nos amo
+2024;4;28;d;Honra y gloria,El Dios que adoramos,Traemos hoy,De los montes,Cristo yo creo en ti,De tal manera,Honra y gloria
+2024;5;2;j;Trabajad,Abre mis ojos,Con humildad,Fidelidad,Recibe toda la gloria,El es el rey
+2024;5;5;d;Lavame en tu sangre,Sera llena la tierra,Golpe de espada,Al que es digno,Abre mis ojos,Conmigo va,Sol de la mañana,Al estar ante ti,Cantad
+2024;5;9;j;Me hirio el pecado,Tu nombre levantare,En espiritu y verdad,Gracias por la cruz,Mi plenitud,Aquel que nos amo
+2024;5;12;d;Señor mi Dios,Hay libertad,La unica razon,Tu nombre oh Dios,Solo Cristo,Solo tu amor,Digno es el cordero santo,Danzando,Viene el amado
+2024;5;16;j;Oh que amigo nos es Cristo,Hay poder,Al que me ciñe de poder,Alaba a Dios,Queremos darte gloria,Te doy gloria
+2024;5;19;d;Señor manifiesta tu poder,Te alabare oh Señor,Aqui estoy,A el alto y sublime,Mi todo,Coros
+2024;5;23;j;Señor mi Dios,Mas que victoria,Desde el fondo del mar,Mora en mi vida,Recibe toda la gloria,El Dios que adoramos
+2024;5;26;d;Hay una ciudad,Cordero y leon,El es el rey,Santo por siempre,Tu eres la razon de mi vida,Celebrad
+2024;5;30;j;Mirad al salvador Jesus,Al rey,Somos el pueblo,En reposo,No hay Dios tan grande como tu
+2024;6;2;d;Me hirio el pecado,Dios tiene un barco,No puede estar triste un corazon,En el principio,Si tuvieras fe,No hay saludo mas bonito,Vamos escalando peldaños,Al que es digno,Santo es el que vive,Recibe toda la gloria,Llenas nuestro hogar de danza,Hossana al rey
+2024;6;6;j;Que mi vida entera este,Te alabo Señor yo te alabo,No tengo nada para ofrecer,Solo a ti sea la gloria,Tu nombre levantare
+2024;6;9;d;Cuando glorioso es el cambio,Cordero y leon,Cuando Jesus descienda,Ven es hora de adorarle,Santo por siempre,Cristo yo creo en ti,Tu eres mi todo
+2024;6;13;j;En un monte lejano,A donde volvere,Trabajad,Queremos darle gloria,Conmigo va,Somos el pueblo de Dios
+2024;6;16;d;Hay una ciudad,Cambiare mi tristeza,Señor eres fiel,En espiritu y verdad,Jesus es mi salvacion,Poderoso Dios,Golpe de espada,Cantad
+2024;6;20;j;En un monte lejano,A donde volvere,Trabajad,Queremos darle gloria,Digno,Somos el pueblo de Dios
+2024;6;23;d;Señor mi Dios,Cambiare mi tristeza,Señor eres fiel,Desde el fondo del mar,Poderoso Dios,Conmigo va,Golpe de espada,Cantad
+2024;6;27;j;Dios de amor,En presencia estar,Celebrad,Mora en mi vida,Alabad a Jehova
+2024;7;4;j;Mas que victoria,Te alabare oh Señor,Al que me ciñe de poder,A el alto y sublime,Como el siervo,Te dare lo mejor
+2024;7;7;d;Que mi vida entera este,Señor manifiesta tu poder,Eres el rey,Jesus mi salvacion,Soberano Dios,Al que es digno,Te doy gloria
