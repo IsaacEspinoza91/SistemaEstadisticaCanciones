@@ -11,23 +11,7 @@ public class Main {
 
         SistemaEstadistico s1 = new SistemaEstadistico();
         s1.addDataByTXT("texto.txt");
-        //System.out.println(s1);
 
-        System.out.println("Gracia sublime     cantidad  "+s1.cantidadVecesCancionEnUnMes("Gracia sublime",3));
-        System.out.println("Senor mi dioss cantidad total   "+s1.cantidadVecesCancion("Señor mi Dios"));
-        for(Cancion c : s1.getCanciones()){
-            //System.out.println(c.getNombre());
-            System.out.println(c);
-            if(c.getNombre().equals("Gracia sublime")){
-                //System.out.println(c);
-            }
-        }
-        System.out.println("\n\n\n");
-        System.out.println(s1.cancionesEnDia(2025,6,13));
-        for(CantidadCancion e : s1.rankingCancionesPorMes(5)){
-            System.out.println(e);
-        }
-        //System.out.println(s1);
 
         Scanner inTeclado = new Scanner(System.in);
         int opcion;
@@ -52,7 +36,8 @@ public class Main {
                     break;
                 case 2:
                     System.out.println("A continuacion ingrese el nombre de la cancion:");
-                    String nombre = inTeclado.next();
+                    inTeclado.nextLine();
+                    String nombre = inTeclado.nextLine();
                     for(Cancion c : s1.getCanciones()){
                         if(c.getNombre().equals(nombre)){
                             System.out.println(c);
@@ -60,7 +45,30 @@ public class Main {
                     }
                     break;
                 case 3:
-
+                    System.out.println("A continuacion se presentan los datos globales de todas las canciones");
+                    for(Cancion c : s1.getCanciones()){
+                        System.out.println(c.printCancion());
+                    }
+                    break;
+                case 4:
+                    System.out.println("A continuacion se presentan el ranking global de canciones tocadas desde el 2024/01/25:");
+                    List<CantidadCancion> listaRanking = s1.rankingCanciones();
+                    for(int a=0;a<listaRanking.size();a++){
+                        System.out.println("\t "+(a+1)+".-  "+listaRanking.get(a).getNombre() + " -  "+listaRanking.get(a).getCantidad());
+                    }
+                    break;
+                case 5:
+                    System.out.println("A continuacion se presentan el ranking en un mes de canciones tocadas desde el 2024/01/25:");
+                    System.out.println("Ingrese el numero de mes:");
+                    int nMes = inTeclado.nextInt();
+                    List<CantidadCancion> listaRankingMes = s1.rankingCancionesPorMes(nMes);
+                    for(int a=0;a<listaRankingMes.size();a++){
+                        System.out.println("\t "+(a+1)+".-  "+listaRankingMes.get(a).getNombre() + " -  "+listaRankingMes.get(a).getCantidad());
+                    }
+                    break;
+                case 6:
+                    System.out.println("Saliendo del programa");
+                    break;
             }
         }while(opcion !=6);
 

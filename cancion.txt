@@ -5,7 +5,7 @@
 2024;2;18;d;A Jesucristo ven sin tardar,Mi todo,En espiritu y verdad,Con humildad,Santo por siempre,Canta al Señor,Honor y gloria
 2024;2;25;d;Hay una ciudad,Glorioso dia,El Dios que adoramos,Cuando Jesus decienda,Traemos hoy,Santo es el que vive,Jesus mi salvacion,Mi todo
 2024;3;3;d;La venida de Cristo se acerca,Me saco de las tinieblas,Alza tus ojos y mira,Rey de gloria,Santo por siempre,Recibe toda la gloria,Me gozare,Asi como David danzaba
-2024;3;10;d;Trabajad,Hay libertad,Somo el pueblo,Aquel que nos amo,Solo tu amor,Grande y eterno,En espiritu y verdad
+2024;3;10;d;Trabajad,Hay libertad,Somos el pueblo,Aquel que nos amo,Solo tu amor,Grande y eterno,En espiritu y verdad
 2024;3;17;d;La venida de Cristo,Señor mi Dios,Tu eres mi todo,Golpe de espada,Conmigo va,Amor sin condicion,Gracia sublime
 2024;3;24;d;Lavame,Glorioso dia,Tu nombre levantare,Al que es digno,Mi todo,Poderoso Dios,Alaba Dios,Santo por siempre,Cantad Dios cerca esta
 2024;3;31;d;En calvario horrenda cruz,Porque bueno es Dios,Celebrad,Cuando bello es el Señor,Solo a ti sea la gloria,Santo es el que vive,Gracias por la cruz,Santo es el que vive,Hay libertad
@@ -26,10 +26,10 @@
 2024;6;2;d;Me hirio el pecado,Dios tiene un barco,No puede estar triste un corazon,En el principio,Si tuvieras fe,No hay saludo mas bonito,Vamos escalando peldaños,Al que es digno,Santo es el que vive,Recibe toda la gloria,Llenas nuestro hogar de danza,Hossana al rey
 2024;6;6;j;Que mi vida entera este,Te alabo Señor yo te alabo,No tengo nada para ofrecer,Solo a ti sea la gloria,Tu nombre levantare
 2024;6;9;d;Cuando glorioso es el cambio,Cordero y leon,Cuando Jesus descienda,Ven es hora de adorarle,Santo por siempre,Cristo yo creo en ti,Tu eres mi todo
-2024;6;13;j;En un monte lejano,A donde volvere,Trabajad,Queremos darle gloria,Conmigo va,Somos el pueblo de Dios
+2024;6;13;j;En un monte lejano,A donde volvere,Trabajad,Queremos darle gloria,Conmigo va,Somos el pueblo
 2024;6;16;d;Hay una ciudad,Cambiare mi tristeza,Señor eres fiel,En espiritu y verdad,Jesus es mi salvacion,Poderoso Dios,Golpe de espada,Cantad
-2024;6;20;j;En un monte lejano,A donde volvere,Trabajad,Queremos darle gloria,Digno,Somos el pueblo de Dios
+2024;6;20;j;En un monte lejano,A donde volvere,Trabajad,Queremos darle gloria,Digno,Somos el pueblo
 2024;6;23;d;Señor mi Dios,Cambiare mi tristeza,Señor eres fiel,Desde el fondo del mar,Poderoso Dios,Conmigo va,Golpe de espada,Cantad
 2024;6;27;j;Dios de amor,En presencia estar,Celebrad,Mora en mi vida,Alabad a Jehova
 2024;7;4;j;Mas que victoria,Te alabare oh Señor,Al que me ciñe de poder,A el alto y sublime,Como el siervo,Te dare lo mejor
-2024;7;7;Que mi vida entera este,Señor manifiesta tu poder,Eres el rey,Jesus mi salvacion,Soberano Dios,Al que es digno,Te doy gloria
+2024;7;7;d;Que mi vida entera este,Señor manifiesta tu poder,Eres el rey,Jesus mi salvacion,Soberano Dios,Al que es digno,Te doy gloria

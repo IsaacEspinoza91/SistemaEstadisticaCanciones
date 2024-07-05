@@ -62,6 +62,24 @@ public class Dia {
     }
 
     // Metodos
-
+    public String printDia(){
+        String st = "";
+        if(anio < 10){
+            st += "0"+anio;
+        }else{
+            st += anio;
+        }
+        if(mes < 10){
+            st += "/0"+mes;
+        }else{
+            st += "/"+mes;
+        }
+        if(dia < 10){
+            st += "/0"+dia;
+        }else{
+            st += "/"+dia;
+        }
+        return st;
+    }
 
 }

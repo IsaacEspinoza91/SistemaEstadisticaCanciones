@@ -153,12 +153,8 @@ public class SistemaEstadistico {
         for (Cancion cancion : canciones) {
             cantidadCancionesLista.add(new CantidadCancion(cantidadVecesCancion(cancion.getNombre()),cancion.getNombre()));
         }
-        ordenarPorCantidad(cantidadCancionesLista);
+        ordenarPorCantidadInversa(cantidadCancionesLista);
         return cantidadCancionesLista;
-    }
-
-    public void ordenarPorCantidad(List<CantidadCancion> lista) {
-        lista.sort((c1, c2) -> Integer.compare(c1.getCantidad(), c2.getCantidad()));
     }
 
     public List<CantidadCancion> rankingCancionesPorMes(int nMes){
@@ -168,10 +164,13 @@ public class SistemaEstadistico {
                 cantidadCancionesLista.add(new CantidadCancion(cantidadVecesCancionEnUnMes(cancion.getNombre(), nMes), cancion.getNombre()));
             }
         }
-        ordenarPorCantidad(cantidadCancionesLista);
+        ordenarPorCantidadInversa(cantidadCancionesLista);
         return cantidadCancionesLista;
     }
 
-
+    public static void ordenarPorCantidadInversa(List<CantidadCancion> lista) {
+        //ordenar la lista de mayor a menor usando una expresión lambda
+        Collections.sort(lista, (c1, c2) -> Integer.compare(c2.getCantidad(), c1.getCantidad()));
+    }
 
 }

@@ -47,6 +47,19 @@ public class Cancion {
         this.fechas.add(dia);
     }
 
+    public String printCancion(){
+        String st = "Nombre: " + nombre + "Fechas: ";
+        for(Dia dia : fechas){
+            st += dia.printDia();
+            if(dia.getTipo().equals("d")) {
+                st += "-Dom  |  ";
+            }else{
+                st += "-Jue  |  ";
+            }
+        }
+        return st;
+    }
+
 
 
 
