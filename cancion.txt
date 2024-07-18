@@ -1,7 +1,7 @@
 2024;1;25;j;Cristo me ayuda por el a vivir,Cordero y leon,De tal manera me amo,Solo Cristo,Celebrare tu amor,Portador de tu gloria
 2024;1;28;d;Pecador sin esperanza,Abre mis ojos,Solo a ti sea la gloria,Con humildad,Cristo yo creo en ti,A el alto y sublime,El es el rey
 2024;2;4;d;Me hirio el pecado,Glorioso dia,Tu nombre levantare,Rey de gloria,Llenas nuestro hogar,Santo es el que vive,Recibe toda la gloria,Te doy gloria
-2024;2;11;d;Cuando combatido,Porque bueno es Dios,Celebrad,Es Jesus el pan de vida, Al que me ciñe de poder,En reposo,Fidelidad,Oh Cristo amado
+2024;2;11;d;Cuando combatido,Porque bueno es Dios,Celebrad,Es Jesus el pan de vida,Al que me ciñe de poder,En reposo,Fidelidad,Oh Cristo amado
 2024;2;18;d;A Jesucristo ven sin tardar,Mi todo,En espiritu y verdad,Con humildad,Santo por siempre,Canta al Señor,Honor y gloria
 2024;2;25;d;Hay una ciudad,Glorioso dia,El Dios que adoramos,Cuando Jesus decienda,Traemos hoy,Santo es el que vive,Jesus mi salvacion,Mi todo
 2024;3;3;d;La venida de Cristo se acerca,Me saco de las tinieblas,Alza tus ojos y mira,Rey de gloria,Santo por siempre,Recibe toda la gloria,Me gozare,Asi como David danzaba
@@ -32,4 +32,8 @@
 2024;6;23;d;Señor mi Dios,Cambiare mi tristeza,Señor eres fiel,Desde el fondo del mar,Poderoso Dios,Conmigo va,Golpe de espada,Cantad
 2024;6;27;j;Dios de amor,En presencia estar,Celebrad,Mora en mi vida,Alabad a Jehova
 2024;7;4;j;Mas que victoria,Te alabare oh Señor,Al que me ciñe de poder,A el alto y sublime,Como el siervo,Te dare lo mejor
-2024;7;7;d;Que mi vida entera este,Señor manifiesta tu poder,Eres el rey,Jesus mi salvacion,Soberano Dios,Al que es digno,Te doy gloria
+2024;7;7;d;Que mi vida entera este,Señor manifiesta tu poder,El es el rey,Jesus mi salvacion,Gracia sublime,Cordero y leon,Al que es digno,Te doy gloria
+2024;7;11;j;Oh mi Dios es real,Con que pagaremos,Golpe de espada,Cuando estoy en luchas,Poderoso Dios,Celebrad
+2024;7;14;d;La venida de Cristo,Oh Cristo amado,Tu nombre oh Dios,Santo,Quiero llenar su trono de alabanza,Tu fidelidad es grande,Hay libertad
+2024;7;18;j;A donde volveré,El Dios que adoramos,La única razón,Mora en mi vida,Gracia sublime
+2024;7;21;d;En un monte lejano;Cuan glorioso;Mi todo;La bondad de Dios;Santo por siempre;En espíritu y verdad;Glorioso dia
